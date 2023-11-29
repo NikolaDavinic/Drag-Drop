@@ -4,7 +4,7 @@ First install modules with command:
 ```js
 npm install
 ```
-Next step is to install packages for Material UI and react-beautiful-dnd library with following command:
+Next step is to install packages for Material UI and react-beautiful-dnd library with following commands:
 ```js
 npm install @mui/system @emotion/react @emotion/styled react-beautiful-dnd
 npm install -D @types/react-beautiful-dnd
