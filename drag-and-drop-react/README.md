@@ -28,3 +28,14 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+First install modules with command:
+```js
+npm install
+```
+Next step is to install packages for Material UI and react-beautiful-dnd library with following command:
+```js
+npm install @mui/system @emotion/react @emotion/styled react-beautiful-dnd
+npm install -D @types/react-beautiful-dnd
+```
+
