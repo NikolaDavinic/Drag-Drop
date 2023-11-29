@@ -10,7 +10,7 @@ npm install @mui/system @emotion/react @emotion/styled react-beautiful-dnd
 npm install -D @types/react-beautiful-dnd
 ```
 
-## React + TypeScript + Vite
+# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
